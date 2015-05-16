@@ -17,12 +17,12 @@
   "require": {
     "php": ">=5.4.0",
     "anahkiasen/underscore-php": "~1.3",
-    "illuminate/cache": "~4.2",
-    "illuminate/config": "~4.2",
-    "illuminate/container": "~4.2",
-    "illuminate/http": "~4.2",
-    "illuminate/support": "~4.2",
-    "opauth/flickr": "~1.1",
+    "illuminate/cache": ">=4.2",
+    "illuminate/config": ">=4.2",
+    "illuminate/container": ">=4.2",
+    "illuminate/http": ">=4.2",
+    "illuminate/support": ">=4.2",
+    "opauth/flickr": "1.1",
     "themattharris/tmhoauth": "0.8.*"
   },
   "require-dev": {
